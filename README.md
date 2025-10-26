@@ -48,7 +48,7 @@ Update the file path in the notebook to point to your resume, then run all cells
 {
   "name": "John Doe",
   "contact_info": {
-    "phone": "+123456789",
+    "phone": "123456789",
     "email": "example@gmail.com"
   },
   "qualification": "Bachelors of Software Engineering",
@@ -64,5 +64,7 @@ Update the file path in the notebook to point to your resume, then run all cells
 ```
 
 **Aneeba Waseem** 
+
 📅 2025
+
 🎓 Project: Resume Parsing
